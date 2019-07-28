@@ -22,5 +22,5 @@ Worked with the Ecommerce Customers csv file from the company. It has Customer i
 
 
 ## Comparing Time on App and Length of Membership columns :-
-
+![Capture](https://user-images.githubusercontent.com/39646018/62005108-e4c09280-b14b-11e9-8ba0-805fcb651a63.PNG | width=50)
 
