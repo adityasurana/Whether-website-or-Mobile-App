@@ -18,4 +18,9 @@ Worked with the Ecommerce Customers csv file from the company. It has Customer i
 ![Capture2](https://user-images.githubusercontent.com/39646018/62005025-c0b08180-b14a-11e9-9c65-70b2e9bac410.PNG)
 
 ## Comparing Time on App and Yearly Amount Spent columns :-
+![Capture3](https://user-images.githubusercontent.com/39646018/62005083-75e33980-b14b-11e9-9995-3f534db16947.PNG)
+
+
+## Comparing Time on App and Length of Membership columns :-
+
 
