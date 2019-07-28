@@ -13,3 +13,6 @@ Worked with the Ecommerce Customers csv file from the company. It has Customer i
 -> Length of Membership: How many years the customer has been a member.
 
 ![Capture1](https://user-images.githubusercontent.com/39646018/62004990-41bb4900-b14a-11e9-9636-2c864833a541.PNG)
+
+## Compare the Time on Website and Yearly Amount Spent columns :-
+![Capture2](https://user-images.githubusercontent.com/39646018/62005025-c0b08180-b14a-11e9-9c65-70b2e9bac410.PNG)
