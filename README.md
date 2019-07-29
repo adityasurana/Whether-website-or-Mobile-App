@@ -23,3 +23,10 @@ Worked with the Ecommerce Customers csv file from the company. It has Customer i
 
 ## Comparing Time on App and Length of Membership columns :-
 ![Capture](https://user-images.githubusercontent.com/39646018/62005108-e4c09280-b14b-11e9-8ba0-805fcb651a63.PNG)
+
+
+## Linear model plot of Yearly Amount Spent vs. Length of Membership :-
+![Captuhvre](https://user-images.githubusercontent.com/39646018/62066769-b7f5a380-b24f-11e9-962e-b223f97a2dc8.PNG)
+
+## Scatterplot of the Real Test values vs. the Predicted values :-
+![Ca mpture](https://user-images.githubusercontent.com/39646018/62067145-ac56ac80-b250-11e9-86ac-eaee9fc4a116.PNG)
